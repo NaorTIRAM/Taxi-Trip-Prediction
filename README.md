@@ -30,7 +30,7 @@ This code reads taxi trip data and holiday calendar data from CSV files, preproc
 12. Use the predict_for_date_and_hours() function to make a prediction for a specific date and range of hours. Print the predicted number of trips for the specified time window.
 
 
-The result i got is:
+The result i got:
 XGBoost (optimized):
   Mean Squared Error: 43278.6065
   Mean Absolute Error: 140.8754
